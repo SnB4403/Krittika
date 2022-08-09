@@ -9,4 +9,4 @@ Aerospace Engineering
 2nd year
 
 $\newline$
-$\textit{The required code is filled in the space provided in the given Jupyter Notebook.}$
+$\text{The required code is filled in the space provided in the given Jupyter Notebook.}$
