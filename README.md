@@ -1,7 +1,7 @@
 # CAB Krittika Solution 
-### Name: 
+### Name:
 Shreyas N B
-### Roll No. : 
+### Roll No.: 
 210010061 
 ### Department: 
 Aerospace Engineering 
@@ -9,4 +9,4 @@ Aerospace Engineering
 2nd year
 
 $\newline$
-The required code is filled in the space provided in the given Jupyter Notebook. 
+$\textit{The required code is filled in the space provided in the given Jupyter Notebook.}$
